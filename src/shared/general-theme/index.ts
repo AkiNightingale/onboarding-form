@@ -1,0 +1,1 @@
+export { generalTheme } from './general-theme.tsx';
